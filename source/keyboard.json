@@ -243,7 +243,7 @@
     "key": "Delete",
     "keyCode": 46,
     "which": 46,
-    "code": "NumpadDecimal",
+    "code": "Delete",
     "location": 3,
     "altKey": false,
     "ctrlKey": false,
@@ -460,7 +460,7 @@
     "description": "forward slash / ç"
    },
    {
-    "key": "ArrowUp",
+    "key": "▲",
     "keyCode": 38,
     "which": 38,
     "code": "ArrowUp",
@@ -475,13 +475,13 @@
     "key": "Shift",
     "keyCode": 16,
     "which": 16,
-    "code": "ShiftLeft",
+    "code": "ShiftRight",
     "location": 1,
     "description": "shift",
     "unicode": "⇧"
    },
    {
-    "key": "Control",
+    "key": "Ctrl",
     "keyCode": 17,
     "which": 17,
     "code": "ControlLeft",
@@ -494,7 +494,7 @@
     "unicode": "^"
    },
    {
-    "key": "Meta",
+    "key": "Win",
     "keyCode": 91,
     "which": 91,
     "code": "MetaLeft",
@@ -535,7 +535,7 @@
     "key": "Alt",
     "keyCode": 18,
     "which": 18,
-    "code": "AltLeft",
+    "code": "AltRight",
     "location": 1,
     "altKey": true,
     "ctrlKey": false,
@@ -545,7 +545,7 @@
     "unicode": "⎇ / ⌥"
    },
    {
-    "key": "ArrowLeft",
+    "key": "◄",
     "keyCode": 37,
     "which": 37,
     "code": "ArrowLeft",
@@ -557,7 +557,7 @@
     "repeat": false
    },
    {
-    "key": "ArrowDown",
+    "key": "▼",
     "keyCode": 40,
     "which": 40,
     "code": "ArrowDown",
@@ -569,7 +569,7 @@
     "repeat": false
    },
    {
-    "key": "ArrowRight",
+    "key": "►",
     "keyCode": 39,
     "which": 39,
     "code": "ArrowRight",
@@ -581,10 +581,10 @@
     "repeat": false
    },
    {
-    "key": "Control",
+    "key": "Ctrl",
     "keyCode": 17,
     "which": 17,
-    "code": "ControlLeft",
+    "code": "ControlRight",
     "location": 1,
     "altKey": true,
     "ctrlKey": false,

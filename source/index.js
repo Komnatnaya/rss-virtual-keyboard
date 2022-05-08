@@ -48,7 +48,7 @@ wrapper.appendChild(language);
 function initKeyboard() {
   let out = '';
   for(let i = 0; i < keyboardArr.length; i++) {
-    out += `<button class="keyboard__item ${keyboardArr[i].code}" data="${keyboardArr[i].code}">${keyboardArr[i].key}</button>`;
+    out += `<div class="keyboard__item ${keyboardArr[i].code}" data="${keyboardArr[i].code}">${keyboardArr[i].key}</div>`;
   }
   keyboard.innerHTML = out;
 }
@@ -56,12 +56,13 @@ initKeyboard();
 
 let textareaContent = '';
 document.addEventListener('keydown', function(event) {
-  document.querySelectorAll('.keyboard__item').forEach(function(el){
-    el.classList.remove('active');
-  });
+  // document.querySelectorAll('.keyboard__item').forEach(function(el){
+  //   el.classList.remove('active');
+  // });
   console.log(event.code);
   let currentKey = document.querySelector(`.keyboard__item.${event.code}`);
   currentKey.classList.add('active');
+  console.log(currentKey.innerHTM);
   textareaContent += currentKey.innerHTML;
   textarea.innerText = textareaContent;
   // currentKey.classList.remove('active');
@@ -74,10 +75,12 @@ document.addEventListener('keyup', function() {
 })
 
 document.querySelectorAll('.keyboard__item').forEach(function(el){
-  el.addEventListener('click', function(event){
-    // document.querySelectorAll('.keyboard__item').forEach(function(el){
-    //   el.classList.remove('active');
-    // });
+  el.addEventListener('click', function(){
+    document.querySelectorAll('.keyboard__item').forEach(function(el){
+      el.classList.remove('active');
+    });
     // this.classList.add('active');
+    textareaContent += this.innerHTML;
+    textarea.innerText = textareaContent;
   })
 });

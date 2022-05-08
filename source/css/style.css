@@ -19,11 +19,13 @@ body {
 
 .textarea {
   display: block;
-  width: 700px;
+  width: 750px;
   height: 200px;
   padding: 10px;
   font-size: 18px;
   color: #444;
+  border: 3px solid rgb(54, 78, 47);
+  border-radius: 5px;
 }
 
 .keyboard {
@@ -38,10 +40,12 @@ body {
 }
 
 .keyboard__item {
+  display: inline-block;
   min-width: 40px;
   height: 40px;
   margin-left: 8px;
   margin-bottom: 8px;
+  padding: 1px 6px;
   font-size: 18px;
   line-height: 32px;
   color: azure;
@@ -51,16 +55,20 @@ body {
   background-color: darkolivegreen;
   box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.2);
   transition: box-shadow 0.3s, border-color 0.3s;
+  box-sizing: border-box;
 }
 
 .keyboard__item:hover {
+  border-color: rgb(173, 171, 5);
   box-shadow: 5px 5px 3px rgba(0, 0, 0, 0.2);
+  /* box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.2), inset -3px -3px 3px rgba(0, 0, 0, 0.2), inset 2px 2px 3px rgb(114, 136, 75); */
 }
 
 .keyboard__item:active,
 .keyboard__item.active {
   border-color: rgb(173, 171, 5);
   box-shadow: 0 0 1px rgba(0, 0, 0, 0.2), inset 3px 3px 3px rgba(0, 0, 0, 0.2);
+  /* box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.2), inset 3px 3px 3px rgba(0, 0, 0, 0.2); */
 }
 
 .description {
@@ -69,4 +77,24 @@ body {
 
 .language {
   margin-top: 0;
+}
+
+.Backspace,
+.Tab,
+.Delete,
+.Enter {
+  flex-grow: 1;
+}
+
+.ShiftLeft {
+  width: 100px;
+  flex-grow: 1;
+}
+
+.ShiftRight {
+  width: 95px;
+}
+
+.Space {
+  flex-grow: 3;
 }
