@@ -67,16 +67,19 @@ textarea.addEventListener("blur", function() {
   selEnd = this.selectionEnd;
 });
 
+function addText(text) {
+  textareaContent = textareaContent.substring(0, selStart) + text + textareaContent.substring(selEnd, textareaContent.length);
+  selEnd = ++selStart;
+}
+
 function addAnswer(code) {
   switch (code) {
     case 'Tab':
-      textareaContent += '\t';
+      addText('\t');
       break;
 
     case 'Enter':
-      textareaContent += '\n';
-      selStart++;
-      selEnd++;
+      addText('\n');
       break
 
     case 'CapsLock':
@@ -126,9 +129,7 @@ function addAnswer(code) {
       break
 
     default:
-      textareaContent += visibleChild.innerHTML;
-      selStart++;
-      selEnd++;
+      addText(visibleChild.innerHTML);
       break
   }
 
