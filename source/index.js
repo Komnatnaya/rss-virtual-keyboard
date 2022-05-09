@@ -22,11 +22,6 @@ description.classList.add('description');
 description.innerText = 'Клавиатура создана в операционной системе Windows';
 wrapper.appendChild(description);
 
-const language = document.createElement('p');
-language.classList.add('language');
-language.innerText = 'Для переключения языка комбинация: левыe ctrl + alt';
-wrapper.appendChild(language);
-
 let capsLock = false;
 
 let keys;
