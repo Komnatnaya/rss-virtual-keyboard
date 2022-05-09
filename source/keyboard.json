@@ -1,596 +1,578 @@
 [
-   {
+  {
     "key": "`",
+    "keyShift": "~",
+    "keyCaps": "`",
+    "keyShiftCaps": "~",
     "keyCode": 192,
     "which": 192,
-    "code": "Backquote",
-    "location": 0,
-    "description": "Backtick / grave accent / ñ / æ / ö"
-   },
-   {
+    "code": "Backquote"
+  },
+  {
     "key": "1",
+    "keyShift": "!",
+    "keyCaps": "1",
+    "keyShiftCaps": "!",
     "keyCode": 49,
     "which": 49,
-    "code": "Digit1",
-    "location": 0,
-    "description": "1 Key",
-    "unicode": "①"
-   },
-   {
+    "code": "Digit1"
+  },
+  {
     "key": "2",
+    "keyShift": "@",
+    "keyCaps": "2",
+    "keyShiftCaps": "@",
     "keyCode": 50,
     "which": 50,
-    "code": "Digit2",
-    "location": 0,
-    "description": "2 Key",
-    "unicode": "②"
-   },
-   {
+    "code": "Digit2"
+  },
+  {
     "key": "3",
+    "keyShift": "#",
+    "keyCaps": "3",
+    "keyShiftCaps": "#",
     "keyCode": 51,
     "which": 51,
-    "code": "Digit3",
-    "location": 0,
-    "description": "3 Key",
-    "unicode": "③"
-   },
-   {
+    "code": "Digit3"
+  },
+  {
     "key": "4",
+    "keyShift": "$",
+    "keyCaps": "4",
+    "keyShiftCaps": "$",
     "keyCode": 52,
     "which": 52,
-    "code": "Digit4",
-    "location": 0,
-    "description": "4 Key",
-    "unicode": "④"
-   },
-   {
+    "code": "Digit4"
+  },
+  {
     "key": "5",
+    "keyShift": "%",
+    "keyCaps": "5",
+    "keyShiftCaps": "%",
     "keyCode": 53,
     "which": 53,
-    "code": "Digit5",
-    "location": 0,
-    "description": "5 Key",
-    "unicode": "⑤"
-   },
-   {
+    "code": "Digit5"
+  },
+  {
     "key": "6",
+    "keyShift": "^",
+    "keyCaps": "6",
+    "keyShiftCaps": "^",
     "keyCode": 54,
     "which": 54,
-    "code": "Digit6",
-    "location": 0,
-    "description": "6 Key",
-    "unicode": "⑥"
-   },
-   {
+    "code": "Digit6"
+  },
+  {
     "key": "7",
+    "keyShift": "&",
+    "keyCaps": "7",
+    "keyShiftCaps": "&",
     "keyCode": 55,
     "which": 55,
-    "code": "Digit7",
-    "location": 0,
-    "description": "7 Key",
-    "unicode": "⑦"
-   },
-   {
+    "code": "Digit7"
+  },
+  {
     "key": "8",
+    "keyShift": "*",
+    "keyCaps": "8",
+    "keyShiftCaps": "*",
     "keyCode": 56,
     "which": 56,
-    "code": "Digit8",
-    "location": 0,
-    "description": "8 Key",
-    "unicode": "⑧"
-   },
-   {
+    "code": "Digit8"
+  },
+  {
     "key": "9",
+    "keyShift": "(",
+    "keyCaps": "9",
+    "keyShiftCaps": "(",
     "keyCode": 57,
     "which": 57,
-    "code": "Digit9",
-    "location": 0,
-    "description": "9 Key",
-    "unicode": "⑨"
-   },
-   {
+    "code": "Digit9"
+  },
+  {
     "key": "0",
+    "keyShift": ")",
+    "keyCaps": "0",
+    "keyShiftCaps": ")",
     "keyCode": 48,
     "which": 48,
-    "code": "Digit0",
-    "location": 0,
-    "description": "0",
-    "unicode": "⓪"
-   },
-   {
+    "code": "Digit0"
+  },
+  {
     "key": "-",
+    "keyShift": "_",
+    "keyCaps": "-",
+    "keyShiftCaps": "_",
     "keyCode": 109,
     "which": 109,
-    "code": "NumpadSubtract",
-    "location": 3,
-    "description": "subtract"
-   },
-   {
+    "code": "NumpadSubtract"
+  },
+  {
     "key": "=",
+    "keyShift": "+",
+    "keyCaps": "=",
+    "keyShiftCaps": "+",
     "keyCode": 61,
     "which": 61,
-    "code": "Equal",
-    "location": 0,
-    "description": "equals (firefox)"
-   },
-   {
+    "code": "Equal"
+  },
+  {
     "key": "Backspace",
+    "keyShift": "Backspace",
+    "keyCaps": "Backspace",
+    "keyShiftCaps": "Backspace",
     "keyCode": 8,
     "which": 8,
-    "code": "Backspace",
-    "location": 0,
-    "description": "backspace / delete",
-    "unicode": "⌫"
-   },
-   {
+    "code": "Backspace"
+  },
+  {
     "key": "Tab",
+    "keyShift": "Tab",
+    "keyCaps": "Tab",
+    "keyShiftCaps": "Tab",
     "keyCode": 9,
     "which": 9,
-    "code": "Tab",
-    "location": 0,
-    "description": "tab",
-    "unicode": "↹"
-   },
-   {
+    "code": "Tab"
+  },
+  {
     "key": "q",
+    "keyShift": "Q",
+    "keyCaps": "Q",
+    "keyShiftCaps": "q",
     "keyCode": 81,
     "which": 81,
-    "code": "KeyQ",
-    "location": 0,
-    "description": "q"
-   },
-   {
+    "code": "KeyQ"
+  },
+  {
     "key": "w",
+    "keyShift": "W",
+    "keyCaps": "W",
+    "keyShiftCaps": "w",
     "keyCode": 87,
     "which": 87,
-    "code": "KeyW",
-    "location": 0,
-    "description": "w"
-   },
-   {
+    "code": "KeyW"
+  },
+  {
     "key": "e",
+    "keyShift": "E",
+    "keyCaps": "E",
+    "keyShiftCaps": "e",
     "keyCode": 69,
     "which": 69,
-    "code": "KeyE",
-    "location": 0,
-    "description": "e"
-   },
-   {
+    "code": "KeyE"
+  },
+  {
     "key": "r",
+    "keyShift": "R",
+    "keyCaps": "R",
+    "keyShiftCaps": "r",
     "keyCode": 82,
     "which": 82,
-    "code": "KeyR",
-    "location": 0,
-    "description": "r"
-   },
-   {
+    "code": "KeyR"
+  },
+  {
     "key": "t",
+    "keyShift": "T",
+    "keyCaps": "T",
+    "keyShiftCaps": "t",
     "keyCode": 84,
     "which": 84,
-    "code": "KeyT",
-    "location": 0,
-    "description": "t"
-   },
-   {
+    "code": "KeyT"
+  },
+  {
     "key": "y",
+    "keyShift": "Y",
+    "keyCaps": "Y",
+    "keyShiftCaps": "y",
     "keyCode": 89,
     "which": 89,
-    "code": "KeyY",
-    "location": 0,
-    "description": "y"
-   },
-   {
+    "code": "KeyY"
+  },
+  {
     "key": "u",
+    "keyShift": "U",
+    "keyCaps": "U",
+    "keyShiftCaps": "u",
     "keyCode": 85,
     "which": 85,
-    "code": "KeyU",
-    "location": 0,
-    "description": "u"
-   },
-   {
+    "code": "KeyU"
+  },
+  {
     "key": "i",
+    "keyShift": "I",
+    "keyCaps": "I",
+    "keyShiftCaps": "i",
     "keyCode": 73,
     "which": 73,
-    "code": "KeyI",
-    "location": 0,
-    "description": "i"
-   },
-   {
+    "code": "KeyI"
+  },
+  {
     "key": "o",
+    "keyShift": "O",
+    "keyCaps": "O",
+    "keyShiftCaps": "o",
     "keyCode": 79,
     "which": 79,
-    "code": "KeyO",
-    "location": 0,
-    "description": "o"
-   },
-   {
+    "code": "KeyO"
+  },
+  {
     "key": "p",
+    "keyShift": "P",
+    "keyCaps": "P",
+    "keyShiftCaps": "p",
     "keyCode": 80,
     "which": 80,
-    "code": "KeyP",
-    "location": 0,
-    "description": "p"
-   },
-   {
+    "code": "KeyP"
+  },
+  {
     "key": "[",
+    "keyShift": "{",
+    "keyCaps": "[",
+    "keyShiftCaps": "{",
     "keyCode": 160,
     "which": 160,
-    "code": "BracketLeft",
-    "location": 0,
-    "altKey": false,
-    "ctrlKey": false,
-    "metaKey": false,
-    "shiftKey": false,
-    "description": "^"
-   },
-   {
+    "code": "BracketLeft"
+  },
+  {
     "key": "]",
+    "keyShift": "}",
+    "keyCaps": "]",
+    "keyShiftCaps": "}",
     "keyCode": 221,
     "which": 221,
-    "code": "BracketRight",
-    "location": 0,
-    "description": "close bracket / å"
-   },
-   {
+    "code": "BracketRight"
+  },
+  {
     "key": "\\",
+    "keyShift": "|",
+    "keyCaps": "\\",
+    "keyShiftCaps": "|",
     "keyCode": 220,
     "which": 220,
-    "code": "Backslash",
-    "location": 0,
-    "description": "back slash"
-   },
-   {
+    "code": "Backslash"
+  },
+  {
     "key": "Delete",
+    "keyShift": "Delete",
+    "keyCaps": "Delete",
+    "keyShiftCaps": "Delete",
     "keyCode": 46,
     "which": 46,
-    "code": "Delete",
-    "location": 3,
-    "altKey": false,
-    "ctrlKey": false,
-    "metaKey": false,
-    "shiftKey": false,
-    "description": "delete",
-    "unicode": "⌦"
-   },
-   {
+    "code": "Delete"
+  },
+  {
     "key": "CapsLock",
+    "keyShift": "CapsLock",
+    "keyCaps": "CapsLock",
+    "keyShiftCaps": "CapsLock",
     "keyCode": 20,
     "which": 20,
-    "code": "CapsLock",
-    "location": 0,
-    "description": "caps lock",
-    "unicode": "⇪"
-   },
-   {
+    "code": "CapsLock"
+  },
+  {
     "key": "a",
+    "keyShift": "A",
+    "keyCaps": "A",
+    "keyShiftCaps": "a",
     "keyCode": 65,
     "which": 65,
-    "code": "KeyA",
-    "location": 0,
-    "description": "a"
-   },
-   {
+    "code": "KeyA"
+  },
+  {
     "key": "s",
+    "keyShift": "S",
+    "keyCaps": "S",
+    "keyShiftCaps": "s",
     "keyCode": 83,
     "which": 83,
-    "code": "KeyS",
-    "location": 0,
-    "description": "s"
-   },
-   {
+    "code": "KeyS"
+  },
+  {
     "key": "d",
+    "keyShift": "D",
+    "keyCaps": "D",
+    "keyShiftCaps": "d",
     "keyCode": 68,
     "which": 68,
-    "code": "KeyD",
-    "location": 0,
-    "description": "d"
-   },
-   {
+    "code": "KeyD"
+  },
+  {
     "key": "f",
+    "keyShift": "F",
+    "keyCaps": "F",
+    "keyShiftCaps": "f",
     "keyCode": 70,
     "which": 70,
-    "code": "KeyF",
-    "location": 0,
-    "description": "f"
-   },
-   {
+    "code": "KeyF"
+  },
+  {
     "key": "g",
+    "keyShift": "G",
+    "keyCaps": "G",
+    "keyShiftCaps": "g",
     "keyCode": 71,
     "which": 71,
-    "code": "KeyG",
-    "location": 0,
-    "description": "g"
-   },
-   {
+    "code": "KeyG"
+  },
+  {
     "key": "h",
+    "keyShift": "H",
+    "keyCaps": "H",
+    "keyShiftCaps": "h",
     "keyCode": 72,
     "which": 72,
-    "code": "KeyH",
-    "location": 0,
-    "description": "h"
-   },
-   {
+    "code": "KeyH"
+  },
+  {
     "key": "j",
+    "keyShift": "J",
+    "keyCaps": "J",
+    "keyShiftCaps": "j",
     "keyCode": 74,
     "which": 74,
-    "code": "KeyJ",
-    "location": 0,
-    "description": "j"
-   },
-   {
+    "code": "KeyJ"
+  },
+  {
     "key": "k",
+    "keyShift": "K",
+    "keyCaps": "K",
+    "keyShiftCaps": "k",
     "keyCode": 75,
     "which": 75,
-    "code": "KeyK",
-    "location": 0,
-    "altKey": true,
-    "ctrlKey": false,
-    "metaKey": true,
-    "shiftKey": false,
-    "description": "k"
-   },
-   {
+    "code": "KeyK"
+  },
+  {
     "key": "l",
+    "keyShift": "L",
+    "keyCaps": "L",
+    "keyShiftCaps": "l",
     "keyCode": 76,
     "which": 76,
-    "code": "KeyL",
-    "location": 0,
-    "altKey": true,
-    "ctrlKey": false,
-    "metaKey": true,
-    "shiftKey": false,
-    "description": "l"
-   },
-   {
+    "code": "KeyL"
+  },
+  {
     "key": ";",
+    "keyShift": ":",
+    "keyCaps": ";",
+    "keyShiftCaps": ":",
     "keyCode": 59,
     "which": 59,
-    "code": "Semicolon",
-    "location": 0,
-    "description": "semicolon (firefox), equals"
-   },
-   {
+    "code": "Semicolon"
+  },
+  {
     "key": "'",
+    "keyShift": "\"",
+    "keyCaps": "'",
+    "keyShiftCaps": "\"",
     "keyCode": 222,
     "which": 222,
-    "code": "Quote",
-    "location": 0,
-    "description": "single quote / ø / ä"
-   },
-   {
+    "code": "Quote"
+  },
+  {
     "key": "Enter",
+    "keyShift": "Enter",
+    "keyCaps": "Enter",
+    "keyShiftCaps": "Enter",
     "keyCode": 13,
     "which": 13,
-    "code": "Enter",
-    "location": 0,
-    "description": "Enter / Return",
-    "unicode": "↵"
-   },
-   {
+    "code": "Enter"
+  },
+  {
     "key": "Shift",
+    "keyShift": "Shift",
+    "keyCaps": "Shift",
+    "keyShiftCaps": "Shift",
     "keyCode": 16,
     "which": 16,
-    "code": "ShiftLeft",
-    "location": 1,
-    "description": "shift",
-    "unicode": "⇧"
-   },
-   {
+    "code": "ShiftLeft"
+  },
+  {
     "key": "z",
+    "keyShift": "Z",
+    "keyCaps": "Z",
+    "keyShiftCaps": "z",
     "keyCode": 90,
     "which": 90,
-    "code": "KeyZ",
-    "location": 0,
-    "description": "z"
-   },
-   {
+    "code": "KeyZ"
+  },
+  {
     "key": "x",
+    "keyShift": "X",
+    "keyCaps": "X",
+    "keyShiftCaps": "x",
     "keyCode": 88,
     "which": 88,
-    "code": "KeyX",
-    "location": 0,
-    "description": "x"
-   },
-   {
+    "code": "KeyX"
+  },
+  {
     "key": "c",
+    "keyShift": "C",
+    "keyCaps": "C",
+    "keyShiftCaps": "c",
     "keyCode": 67,
     "which": 67,
-    "code": "KeyC",
-    "location": 0,
-    "description": "c"
-   },
-   {
+    "code": "KeyC"
+  },
+  {
     "key": "v",
+    "keyShift": "V",
+    "keyCaps": "V",
+    "keyShiftCaps": "v",
     "keyCode": 86,
     "which": 86,
-    "code": "KeyV",
-    "location": 0,
-    "description": "v"
-   },
-   {
+    "code": "KeyV"
+  },
+  {
     "key": "b",
+    "keyShift": "B",
+    "keyCaps": "B",
+    "keyShiftCaps": "b",
     "keyCode": 66,
     "which": 66,
-    "code": "KeyB",
-    "location": 0,
-    "description": "b"
-   },
-   {
+    "code": "KeyB"
+  },
+  {
     "key": "n",
+    "keyShift": "N",
+    "keyCaps": "N",
+    "keyShiftCaps": "n",
     "keyCode": 78,
     "which": 78,
-    "code": "KeyN",
-    "location": 0,
-    "description": "n"
-   },
-   {
+    "code": "KeyN"
+  },
+  {
     "key": "m",
+    "keyShift": "M",
+    "keyCaps": "M",
+    "keyShiftCaps": "m",
     "keyCode": 77,
     "which": 77,
-    "code": "KeyM",
-    "location": 0,
-    "description": "m"
-   },
-   {
+    "code": "KeyM"
+  },
+  {
     "key": ",",
+    "keyShift": "<",
+    "keyCaps": ",",
+    "keyShiftCaps": "<",
     "keyCode": 108,
     "which": 108,
-    "code": "NumpadDecimal",
-    "location": 3,
-    "altKey": false,
-    "ctrlKey": false,
-    "metaKey": false,
-    "shiftKey": false,
-    "description": "numpad period (firefox)"
-   },
-   {
+    "code": "NumpadDecimal"
+  },
+  {
     "key": ".",
+    "keyShift": ">",
+    "keyCaps": ".",
+    "keyShiftCaps": ">",
     "keyCode": 190,
     "which": 190,
-    "code": "Period",
-    "location": 0,
-    "description": "period"
-   },
-   {
+    "code": "Period"
+  },
+  {
     "key": "/",
+    "keyShift": "?",
+    "keyCaps": "/",
+    "keyShiftCaps": "?",
     "keyCode": 191,
     "which": 191,
-    "code": "Slash",
-    "location": 0,
-    "description": "forward slash / ç"
-   },
-   {
+    "code": "Slash"
+  },
+  {
     "key": "▲",
+    "keyShift": "▲",
+    "keyCaps": "▲",
+    "keyShiftCaps": "▲",
     "keyCode": 38,
     "which": 38,
-    "code": "ArrowUp",
-    "location": 0,
-    "altKey": false,
-    "ctrlKey": false,
-    "metaKey": false,
-    "shiftKey": false,
-    "repeat": false
-   },
-   {
+    "code": "ArrowUp"
+  },
+  {
     "key": "Shift",
+    "keyShift": "Shift",
+    "keyCaps": "Shift",
+    "keyShiftCaps": "Shift",
     "keyCode": 16,
     "which": 16,
-    "code": "ShiftRight",
-    "location": 1,
-    "description": "shift",
-    "unicode": "⇧"
-   },
-   {
+    "code": "ShiftRight"
+  },
+  {
     "key": "Ctrl",
+    "keyShift": "Ctrl",
+    "keyCaps": "Ctrl",
+    "keyShiftCaps": "Ctrl",
     "keyCode": 17,
     "which": 17,
-    "code": "ControlLeft",
-    "location": 1,
-    "altKey": true,
-    "ctrlKey": false,
-    "metaKey": true,
-    "shiftKey": true,
-    "description": "ctrl",
-    "unicode": "^"
-   },
-   {
+    "code": "ControlLeft"
+  },
+  {
     "key": "Win",
+    "keyShift": "Win",
+    "keyCaps": "Win",
+    "keyShiftCaps": "Win",
     "keyCode": 91,
     "which": 91,
-    "code": "MetaLeft",
-    "location": 1,
-    "altKey": false,
-    "ctrlKey": false,
-    "metaKey": true,
-    "shiftKey": false,
-    "description": "Windows Key / Left ⌘ / Chromebook Search key",
-    "unicode": "⌘ ⊞"
-   },
-   {
+    "code": "MetaLeft"
+  },
+  {
     "key": "Alt",
+    "keyShift": "Alt",
+    "keyCaps": "Alt",
+    "keyShiftCaps": "Alt",
     "keyCode": 18,
     "which": 18,
-    "code": "AltLeft",
-    "location": 1,
-    "altKey": true,
-    "ctrlKey": false,
-    "metaKey": true,
-    "shiftKey": false,
-    "description": "Alt / Option",
-    "unicode": "⎇ / ⌥"
-   },
-   {
+    "code": "AltLeft"
+  },
+  {
     "key": " ",
+    "keyShift": " ",
+    "keyCaps": " ",
+    "keyShiftCaps": " ",
     "keyCode": 32,
     "which": 32,
-    "code": "Space",
-    "location": 0,
-    "altKey": false,
-    "ctrlKey": false,
-    "metaKey": false,
-    "shiftKey": false,
-    "repeat": false
-   },
-   {
+    "code": "Space"
+  },
+  {
     "key": "Alt",
+    "keyShift": "Alt",
+    "keyCaps": "Alt",
+    "keyShiftCaps": "Alt",
     "keyCode": 18,
     "which": 18,
-    "code": "AltRight",
-    "location": 1,
-    "altKey": true,
-    "ctrlKey": false,
-    "metaKey": true,
-    "shiftKey": false,
-    "description": "Alt / Option",
-    "unicode": "⎇ / ⌥"
-   },
-   {
+    "code": "AltRight"
+  },
+  {
     "key": "◄",
+    "keyShift": "◄",
+    "keyCaps": "◄",
+    "keyShiftCaps": "◄",
     "keyCode": 37,
     "which": 37,
-    "code": "ArrowLeft",
-    "location": 0,
-    "altKey": false,
-    "ctrlKey": false,
-    "metaKey": false,
-    "shiftKey": false,
-    "repeat": false
-   },
-   {
+    "code": "ArrowLeft"
+  },
+  {
     "key": "▼",
+    "keyShift": "▼",
+    "keyCaps": "▼",
+    "keyShiftCaps": "▼",
     "keyCode": 40,
     "which": 40,
-    "code": "ArrowDown",
-    "location": 0,
-    "altKey": false,
-    "ctrlKey": false,
-    "metaKey": false,
-    "shiftKey": false,
-    "repeat": false
-   },
-   {
+    "code": "ArrowDown"
+  },
+  {
     "key": "►",
+    "keyShift": "►",
+    "keyCaps": "►",
+    "keyShiftCaps": "►",
     "keyCode": 39,
     "which": 39,
-    "code": "ArrowRight",
-    "location": 0,
-    "altKey": false,
-    "ctrlKey": false,
-    "metaKey": false,
-    "shiftKey": false,
-    "repeat": false
-   },
-   {
+    "code": "ArrowRight"
+  },
+  {
     "key": "Ctrl",
+    "keyShift": "Ctrl",
+    "keyCaps": "Ctrl",
+    "keyShiftCaps": "Ctrl",
     "keyCode": 17,
     "which": 17,
-    "code": "ControlRight",
-    "location": 1,
-    "altKey": true,
-    "ctrlKey": false,
-    "metaKey": true,
-    "shiftKey": true,
-    "description": "ctrl",
-    "unicode": "^"
-   }
+    "code": "ControlRight"
+  }
 ]
