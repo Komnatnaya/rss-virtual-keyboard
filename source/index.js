@@ -143,7 +143,6 @@ function addAnswer(code) {
   textarea.selectionEnd = selEnd;
 }
 
-
 document.addEventListener('keydown', function(event) {
   event.preventDefault();
 
@@ -155,16 +154,18 @@ document.addEventListener('keydown', function(event) {
 
 document.addEventListener('keyup', function(event) {
   document.querySelectorAll('.keyboard__item').forEach(function(el){
-    if (!el.classList.contains('CapsLock')) {
+    if (!el.classList.contains('CapsLock') && !el.classList.contains('ShiftLeft') && !el.classList.contains('ShiftRight')) {
+      el.classList.remove('active');
+    }
+    if (event.code === 'ShiftLeft' || event.code === 'ShiftRight') {
+      if (capsLock) {
+        addVisible(keysCapsEn);
+      } else {
+        addVisible(keysEn);
+      }
       el.classList.remove('active');
     }
   });
-  if (capsLock) {
-    addVisible(keysCapsEn);
-  } else {
-    addVisible(keysEn);
-  }
-  console.log(event.code);
 })
 
 document.querySelectorAll('.keyboard__item').forEach(function(el){
@@ -176,6 +177,28 @@ document.querySelectorAll('.keyboard__item').forEach(function(el){
     });
     currentKey = this;
     visibleChild = this.querySelector('.visible');
-    addAnswer(this.dataset.code);
+    if (this.dataset.code !== 'ShiftLeft' && this.dataset.code !== 'ShiftRight') {
+      addAnswer(this.dataset.code);
+    }
+  })
+});
+
+document.querySelectorAll('.ShiftLeft, .ShiftRight').forEach(function(el){
+  el.addEventListener('mousedown', function(){
+    if (capsLock) {
+      addVisible(keysShiftCapsEn);
+    } else {
+      addVisible(keysShiftEn);
+    }
+  })
+});
+
+document.querySelectorAll('.ShiftLeft, .ShiftRight').forEach(function(el){
+  el.addEventListener('mouseup', function(){
+    if (capsLock) {
+      addVisible(keysCapsEn);
+    } else {
+      addVisible(keysEn);
+    }
   })
 });
