@@ -80,6 +80,8 @@ function addAnswer(code) {
 
     case 'Enter':
       textareaContent += '\n';
+      selStart++;
+      selEnd++;
       break
 
     case 'CapsLock':
@@ -97,9 +99,7 @@ function addAnswer(code) {
     case 'Backspace':
       selStart = textarea.selectionStart;
       selEnd = textarea.selectionEnd;
-      if (!selEnd) {
-        textareaContent = textareaContent.substring(0, textareaContent.length - 1);
-      } else {
+      if (selEnd) {
         textareaContent = textareaContent.substring(0, selStart - 1) + textareaContent.substring(selEnd, textareaContent.length);
         selEnd = --selStart;
       }
