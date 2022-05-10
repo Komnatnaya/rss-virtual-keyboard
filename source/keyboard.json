@@ -4,10 +4,10 @@
     "keyShift": "~",
     "keyCaps": "`",
     "keyShiftCaps": "~",
-    "keyRus": "ё",
-    "keyShiftRus": "Ё",
-    "keyCapsRus": "Ё",
-    "keyShiftCapsRus": "ё",
+    "keyRu": "ё",
+    "keyShiftRu": "Ё",
+    "keyCapsRu": "Ё",
+    "keyShiftCapsRu": "ё",
     "code": "Backquote"
   },
   {
@@ -15,10 +15,10 @@
     "keyShift": "!",
     "keyCaps": "1",
     "keyShiftCaps": "!",
-    "keyRus": "1",
-    "keyShiftRus": "!",
-    "keyCapsRus": "1",
-    "keyShiftCapsRus": "!",
+    "keyRu": "1",
+    "keyShiftRu": "!",
+    "keyCapsRu": "1",
+    "keyShiftCapsRu": "!",
     "code": "Digit1"
   },
   {
@@ -26,10 +26,10 @@
     "keyShift": "@",
     "keyCaps": "2",
     "keyShiftCaps": "@",
-    "keyRus": "2",
-    "keyShiftRus": "\"",
-    "keyCapsRus": "2",
-    "keyShiftCapsRus": "\"",
+    "keyRu": "2",
+    "keyShiftRu": "\"",
+    "keyCapsRu": "2",
+    "keyShiftCapsRu": "\"",
     "code": "Digit2"
   },
   {
@@ -37,10 +37,10 @@
     "keyShift": "#",
     "keyCaps": "3",
     "keyShiftCaps": "#",
-    "keyRus": "3",
-    "keyShiftRus": "№",
-    "keyCapsRus": "3",
-    "keyShiftCapsRus": "№",
+    "keyRu": "3",
+    "keyShiftRu": "№",
+    "keyCapsRu": "3",
+    "keyShiftCapsRu": "№",
     "code": "Digit3"
   },
   {
@@ -48,10 +48,10 @@
     "keyShift": "$",
     "keyCaps": "4",
     "keyShiftCaps": "$",
-    "keyRus": "4",
-    "keyShiftRus": ";",
-    "keyCapsRus": "4",
-    "keyShiftCapsRus": ";",
+    "keyRu": "4",
+    "keyShiftRu": ";",
+    "keyCapsRu": "4",
+    "keyShiftCapsRu": ";",
     "code": "Digit4"
   },
   {
@@ -59,10 +59,10 @@
     "keyShift": "%",
     "keyCaps": "5",
     "keyShiftCaps": "%",
-    "keyRus": "5",
-    "keyShiftRus": "%",
-    "keyCapsRus": "5",
-    "keyShiftCapsRus": "%",
+    "keyRu": "5",
+    "keyShiftRu": "%",
+    "keyCapsRu": "5",
+    "keyShiftCapsRu": "%",
     "code": "Digit5"
   },
   {
@@ -70,10 +70,10 @@
     "keyShift": "^",
     "keyCaps": "6",
     "keyShiftCaps": "^",
-    "keyRus": "6",
-    "keyShiftRus": ":",
-    "keyCapsRus": "6",
-    "keyShiftCapsRus": ":",
+    "keyRu": "6",
+    "keyShiftRu": ":",
+    "keyCapsRu": "6",
+    "keyShiftCapsRu": ":",
     "code": "Digit6"
   },
   {
@@ -81,10 +81,10 @@
     "keyShift": "&",
     "keyCaps": "7",
     "keyShiftCaps": "&",
-    "keyRus": "7",
-    "keyShiftRus": "?",
-    "keyCapsRus": "7",
-    "keyShiftCapsRus": "?",
+    "keyRu": "7",
+    "keyShiftRu": "?",
+    "keyCapsRu": "7",
+    "keyShiftCapsRu": "?",
     "code": "Digit7"
   },
   {
@@ -92,10 +92,10 @@
     "keyShift": "*",
     "keyCaps": "8",
     "keyShiftCaps": "*",
-    "keyRus": "8",
-    "keyShiftRus": "*",
-    "keyCapsRus": "8",
-    "keyShiftCapsRus": "*",
+    "keyRu": "8",
+    "keyShiftRu": "*",
+    "keyCapsRu": "8",
+    "keyShiftCapsRu": "*",
     "code": "Digit8"
   },
   {
@@ -103,10 +103,10 @@
     "keyShift": "(",
     "keyCaps": "9",
     "keyShiftCaps": "(",
-    "keyRus": "9",
-    "keyShiftRus": "(",
-    "keyCapsRus": "9",
-    "keyShiftCapsRus": "(",
+    "keyRu": "9",
+    "keyShiftRu": "(",
+    "keyCapsRu": "9",
+    "keyShiftCapsRu": "(",
     "code": "Digit9"
   },
   {
@@ -114,10 +114,10 @@
     "keyShift": ")",
     "keyCaps": "0",
     "keyShiftCaps": ")",
-    "keyRus": "0",
-    "keyShiftRus": ")",
-    "keyCapsRus": "0",
-    "keyShiftCapsRus": ")",
+    "keyRu": "0",
+    "keyShiftRu": ")",
+    "keyCapsRu": "0",
+    "keyShiftCapsRu": ")",
     "code": "Digit0"
   },
   {
@@ -125,10 +125,10 @@
     "keyShift": "_",
     "keyCaps": "-",
     "keyShiftCaps": "_",
-    "keyRus": "-",
-    "keyShiftRus": "_",
-    "keyCapsRus": "-",
-    "keyShiftCapsRus": "_",
+    "keyRu": "-",
+    "keyShiftRu": "_",
+    "keyCapsRu": "-",
+    "keyShiftCapsRu": "_",
     "code": "NumpadSubtract"
   },
   {
@@ -136,10 +136,10 @@
     "keyShift": "+",
     "keyCaps": "=",
     "keyShiftCaps": "+",
-    "keyRus": "=",
-    "keyShiftRus": "+",
-    "keyCapsRus": "=",
-    "keyShiftCapsRus": "+",
+    "keyRu": "=",
+    "keyShiftRu": "+",
+    "keyCapsRu": "=",
+    "keyShiftCapsRu": "+",
     "code": "Equal"
   },
   {
@@ -147,10 +147,10 @@
     "keyShift": "Backspace",
     "keyCaps": "Backspace",
     "keyShiftCaps": "Backspace",
-    "keyRus": "Backspace",
-    "keyShiftRus": "Backspace",
-    "keyCapsRus": "Backspace",
-    "keyShiftCapsRus": "Backspace",
+    "keyRu": "Backspace",
+    "keyShiftRu": "Backspace",
+    "keyCapsRu": "Backspace",
+    "keyShiftCapsRu": "Backspace",
     "code": "Backspace"
   },
   {
@@ -158,10 +158,10 @@
     "keyShift": "Tab",
     "keyCaps": "Tab",
     "keyShiftCaps": "Tab",
-    "keyRus": "Tab",
-    "keyShiftRus": "Tab",
-    "keyCapsRus": "Tab",
-    "keyShiftCapsRus": "Tab",
+    "keyRu": "Tab",
+    "keyShiftRu": "Tab",
+    "keyCapsRu": "Tab",
+    "keyShiftCapsRu": "Tab",
     "code": "Tab"
   },
   {
@@ -169,10 +169,10 @@
     "keyShift": "Q",
     "keyCaps": "Q",
     "keyShiftCaps": "q",
-    "keyRus": "й",
-    "keyShiftRus": "Й",
-    "keyCapsRus": "Й",
-    "keyShiftCapsRus": "й",
+    "keyRu": "й",
+    "keyShiftRu": "Й",
+    "keyCapsRu": "Й",
+    "keyShiftCapsRu": "й",
     "code": "KeyQ"
   },
   {
@@ -180,10 +180,10 @@
     "keyShift": "W",
     "keyCaps": "W",
     "keyShiftCaps": "w",
-    "keyRus": "ц",
-    "keyShiftRus": "Ц",
-    "keyCapsRus": "Ц",
-    "keyShiftCapsRus": "ц",
+    "keyRu": "ц",
+    "keyShiftRu": "Ц",
+    "keyCapsRu": "Ц",
+    "keyShiftCapsRu": "ц",
     "code": "KeyW"
   },
   {
@@ -191,10 +191,10 @@
     "keyShift": "E",
     "keyCaps": "E",
     "keyShiftCaps": "e",
-    "keyRus": "у",
-    "keyShiftRus": "У",
-    "keyCapsRus": "У",
-    "keyShiftCapsRus": "у",
+    "keyRu": "у",
+    "keyShiftRu": "У",
+    "keyCapsRu": "У",
+    "keyShiftCapsRu": "у",
     "code": "KeyE"
   },
   {
@@ -202,10 +202,10 @@
     "keyShift": "R",
     "keyCaps": "R",
     "keyShiftCaps": "r",
-    "keyRus": "к",
-    "keyShiftRus": "К",
-    "keyCapsRus": "К",
-    "keyShiftCapsRus": "к",
+    "keyRu": "к",
+    "keyShiftRu": "К",
+    "keyCapsRu": "К",
+    "keyShiftCapsRu": "к",
     "code": "KeyR"
   },
   {
@@ -213,10 +213,10 @@
     "keyShift": "T",
     "keyCaps": "T",
     "keyShiftCaps": "t",
-    "keyRus": "е",
-    "keyShiftRus": "Е",
-    "keyCapsRus": "Е",
-    "keyShiftCapsRus": "е",
+    "keyRu": "е",
+    "keyShiftRu": "Е",
+    "keyCapsRu": "Е",
+    "keyShiftCapsRu": "е",
     "code": "KeyT"
   },
   {
@@ -224,10 +224,10 @@
     "keyShift": "Y",
     "keyCaps": "Y",
     "keyShiftCaps": "y",
-    "keyRus": "н",
-    "keyShiftRus": "Н",
-    "keyCapsRus": "Н",
-    "keyShiftCapsRus": "н",
+    "keyRu": "н",
+    "keyShiftRu": "Н",
+    "keyCapsRu": "Н",
+    "keyShiftCapsRu": "н",
     "code": "KeyY"
   },
   {
@@ -235,10 +235,10 @@
     "keyShift": "U",
     "keyCaps": "U",
     "keyShiftCaps": "u",
-    "keyRus": "г",
-    "keyShiftRus": "Г",
-    "keyCapsRus": "Г",
-    "keyShiftCapsRus": "г",
+    "keyRu": "г",
+    "keyShiftRu": "Г",
+    "keyCapsRu": "Г",
+    "keyShiftCapsRu": "г",
     "code": "KeyU"
   },
   {
@@ -246,10 +246,10 @@
     "keyShift": "I",
     "keyCaps": "I",
     "keyShiftCaps": "i",
-    "keyRus": "ш",
-    "keyShiftRus": "Ш",
-    "keyCapsRus": "Ш",
-    "keyShiftCapsRus": "ш",
+    "keyRu": "ш",
+    "keyShiftRu": "Ш",
+    "keyCapsRu": "Ш",
+    "keyShiftCapsRu": "ш",
     "code": "KeyI"
   },
   {
@@ -257,10 +257,10 @@
     "keyShift": "O",
     "keyCaps": "O",
     "keyShiftCaps": "o",
-    "keyRus": "щ",
-    "keyShiftRus": "Щ",
-    "keyCapsRus": "Щ",
-    "keyShiftCapsRus": "щ",
+    "keyRu": "щ",
+    "keyShiftRu": "Щ",
+    "keyCapsRu": "Щ",
+    "keyShiftCapsRu": "щ",
     "code": "KeyO"
   },
   {
@@ -268,10 +268,10 @@
     "keyShift": "P",
     "keyCaps": "P",
     "keyShiftCaps": "p",
-    "keyRus": "з",
-    "keyShiftRus": "З",
-    "keyCapsRus": "З",
-    "keyShiftCapsRus": "з",
+    "keyRu": "з",
+    "keyShiftRu": "З",
+    "keyCapsRu": "З",
+    "keyShiftCapsRu": "з",
     "code": "KeyP"
   },
   {
@@ -279,10 +279,10 @@
     "keyShift": "{",
     "keyCaps": "[",
     "keyShiftCaps": "{",
-    "keyRus": "х",
-    "keyShiftRus": "Х",
-    "keyCapsRus": "Х",
-    "keyShiftCapsRus": "х",
+    "keyRu": "х",
+    "keyShiftRu": "Х",
+    "keyCapsRu": "Х",
+    "keyShiftCapsRu": "х",
     "code": "BracketLeft"
   },
   {
@@ -290,10 +290,10 @@
     "keyShift": "}",
     "keyCaps": "]",
     "keyShiftCaps": "}",
-    "keyRus": "ъ",
-    "keyShiftRus": "Ъ",
-    "keyCapsRus": "Ъ",
-    "keyShiftCapsRus": "ъ",
+    "keyRu": "ъ",
+    "keyShiftRu": "Ъ",
+    "keyCapsRu": "Ъ",
+    "keyShiftCapsRu": "ъ",
     "code": "BracketRight"
   },
   {
@@ -301,10 +301,10 @@
     "keyShift": "|",
     "keyCaps": "\\",
     "keyShiftCaps": "|",
-    "keyRus": "\\",
-    "keyShiftRus": "/",
-    "keyCapsRus": "\\",
-    "keyShiftCapsRus": "/",
+    "keyRu": "\\",
+    "keyShiftRu": "/",
+    "keyCapsRu": "\\",
+    "keyShiftCapsRu": "/",
     "code": "Backslash"
   },
   {
@@ -312,10 +312,10 @@
     "keyShift": "Delete",
     "keyCaps": "Delete",
     "keyShiftCaps": "Delete",
-    "keyRus": "Delete",
-    "keyShiftRus": "Delete",
-    "keyCapsRus": "Delete",
-    "keyShiftCapsRus": "Delete",
+    "keyRu": "Delete",
+    "keyShiftRu": "Delete",
+    "keyCapsRu": "Delete",
+    "keyShiftCapsRu": "Delete",
     "code": "Delete"
   },
   {
@@ -323,10 +323,10 @@
     "keyShift": "CapsLock",
     "keyCaps": "CapsLock",
     "keyShiftCaps": "CapsLock",
-    "keyRus": "CapsLock",
-    "keyShiftRus": "CapsLock",
-    "keyCapsRus": "CapsLock",
-    "keyShiftCapsRus": "CapsLock",
+    "keyRu": "CapsLock",
+    "keyShiftRu": "CapsLock",
+    "keyCapsRu": "CapsLock",
+    "keyShiftCapsRu": "CapsLock",
     "code": "CapsLock"
   },
   {
@@ -334,10 +334,10 @@
     "keyShift": "A",
     "keyCaps": "A",
     "keyShiftCaps": "a",
-    "keyRus": "ф",
-    "keyShiftRus": "Ф",
-    "keyCapsRus": "Ф",
-    "keyShiftCapsRus": "ф",
+    "keyRu": "ф",
+    "keyShiftRu": "Ф",
+    "keyCapsRu": "Ф",
+    "keyShiftCapsRu": "ф",
     "code": "KeyA"
   },
   {
@@ -345,10 +345,10 @@
     "keyShift": "S",
     "keyCaps": "S",
     "keyShiftCaps": "s",
-    "keyRus": "ы",
-    "keyShiftRus": "Ы",
-    "keyCapsRus": "Ы",
-    "keyShiftCapsRus": "ы",
+    "keyRu": "ы",
+    "keyShiftRu": "Ы",
+    "keyCapsRu": "Ы",
+    "keyShiftCapsRu": "ы",
     "code": "KeyS"
   },
   {
@@ -356,10 +356,10 @@
     "keyShift": "D",
     "keyCaps": "D",
     "keyShiftCaps": "d",
-    "keyRus": "в",
-    "keyShiftRus": "В",
-    "keyCapsRus": "В",
-    "keyShiftCapsRus": "в",
+    "keyRu": "в",
+    "keyShiftRu": "В",
+    "keyCapsRu": "В",
+    "keyShiftCapsRu": "в",
     "code": "KeyD"
   },
   {
@@ -367,10 +367,10 @@
     "keyShift": "F",
     "keyCaps": "F",
     "keyShiftCaps": "f",
-    "keyRus": "а",
-    "keyShiftRus": "А",
-    "keyCapsRus": "А",
-    "keyShiftCapsRus": "а",
+    "keyRu": "а",
+    "keyShiftRu": "А",
+    "keyCapsRu": "А",
+    "keyShiftCapsRu": "а",
     "code": "KeyF"
   },
   {
@@ -378,10 +378,10 @@
     "keyShift": "G",
     "keyCaps": "G",
     "keyShiftCaps": "g",
-    "keyRus": "п",
-    "keyShiftRus": "П",
-    "keyCapsRus": "П",
-    "keyShiftCapsRus": "п",
+    "keyRu": "п",
+    "keyShiftRu": "П",
+    "keyCapsRu": "П",
+    "keyShiftCapsRu": "п",
     "code": "KeyG"
   },
   {
@@ -389,10 +389,10 @@
     "keyShift": "H",
     "keyCaps": "H",
     "keyShiftCaps": "h",
-    "keyRus": "р",
-    "keyShiftRus": "Р",
-    "keyCapsRus": "Р",
-    "keyShiftCapsRus": "р",
+    "keyRu": "р",
+    "keyShiftRu": "Р",
+    "keyCapsRu": "Р",
+    "keyShiftCapsRu": "р",
     "code": "KeyH"
   },
   {
@@ -400,10 +400,10 @@
     "keyShift": "J",
     "keyCaps": "J",
     "keyShiftCaps": "j",
-    "keyRus": "о",
-    "keyShiftRus": "О",
-    "keyCapsRus": "О",
-    "keyShiftCapsRus": "о",
+    "keyRu": "о",
+    "keyShiftRu": "О",
+    "keyCapsRu": "О",
+    "keyShiftCapsRu": "о",
     "code": "KeyJ"
   },
   {
@@ -411,10 +411,10 @@
     "keyShift": "K",
     "keyCaps": "K",
     "keyShiftCaps": "k",
-    "keyRus": "л",
-    "keyShiftRus": "Л",
-    "keyCapsRus": "Л",
-    "keyShiftCapsRus": "л",
+    "keyRu": "л",
+    "keyShiftRu": "Л",
+    "keyCapsRu": "Л",
+    "keyShiftCapsRu": "л",
     "code": "KeyK"
   },
   {
@@ -422,10 +422,10 @@
     "keyShift": "L",
     "keyCaps": "L",
     "keyShiftCaps": "l",
-    "keyRus": "д",
-    "keyShiftRus": "Д",
-    "keyCapsRus": "Д",
-    "keyShiftCapsRus": "д",
+    "keyRu": "д",
+    "keyShiftRu": "Д",
+    "keyCapsRu": "Д",
+    "keyShiftCapsRu": "д",
     "code": "KeyL"
   },
   {
@@ -433,10 +433,10 @@
     "keyShift": ":",
     "keyCaps": ";",
     "keyShiftCaps": ":",
-    "keyRus": "ж",
-    "keyShiftRus": "Ж",
-    "keyCapsRus": "Ж",
-    "keyShiftCapsRus": "ж",
+    "keyRu": "ж",
+    "keyShiftRu": "Ж",
+    "keyCapsRu": "Ж",
+    "keyShiftCapsRu": "ж",
     "code": "Semicolon"
   },
   {
@@ -444,10 +444,10 @@
     "keyShift": "\"",
     "keyCaps": "'",
     "keyShiftCaps": "\"",
-    "keyRus": "э",
-    "keyShiftRus": "Э",
-    "keyCapsRus": "Э",
-    "keyShiftCapsRus": "э",
+    "keyRu": "э",
+    "keyShiftRu": "Э",
+    "keyCapsRu": "Э",
+    "keyShiftCapsRu": "э",
     "code": "Quote"
   },
   {
@@ -455,10 +455,10 @@
     "keyShift": "Enter",
     "keyCaps": "Enter",
     "keyShiftCaps": "Enter",
-    "keyRus": "Enter",
-    "keyShiftRus": "Enter",
-    "keyCapsRus": "Enter",
-    "keyShiftCapsRus": "Enter",
+    "keyRu": "Enter",
+    "keyShiftRu": "Enter",
+    "keyCapsRu": "Enter",
+    "keyShiftCapsRu": "Enter",
     "code": "Enter"
   },
   {
@@ -466,10 +466,10 @@
     "keyShift": "Shift",
     "keyCaps": "Shift",
     "keyShiftCaps": "Shift",
-    "keyRus": "Shift",
-    "keyShiftRus": "Shift",
-    "keyCapsRus": "Shift",
-    "keyShiftCapsRus": "Shift",
+    "keyRu": "Shift",
+    "keyShiftRu": "Shift",
+    "keyCapsRu": "Shift",
+    "keyShiftCapsRu": "Shift",
     "code": "ShiftLeft"
   },
   {
@@ -477,10 +477,10 @@
     "keyShift": "Z",
     "keyCaps": "Z",
     "keyShiftCaps": "z",
-    "keyRus": "я",
-    "keyShiftRus": "Я",
-    "keyCapsRus": "Я",
-    "keyShiftCapsRus": "я",
+    "keyRu": "я",
+    "keyShiftRu": "Я",
+    "keyCapsRu": "Я",
+    "keyShiftCapsRu": "я",
     "code": "KeyZ"
   },
   {
@@ -488,10 +488,10 @@
     "keyShift": "X",
     "keyCaps": "X",
     "keyShiftCaps": "x",
-    "keyRus": "ч",
-    "keyShiftRus": "Ч",
-    "keyCapsRus": "Ч",
-    "keyShiftCapsRus": "ч",
+    "keyRu": "ч",
+    "keyShiftRu": "Ч",
+    "keyCapsRu": "Ч",
+    "keyShiftCapsRu": "ч",
     "code": "KeyX"
   },
   {
@@ -499,10 +499,10 @@
     "keyShift": "C",
     "keyCaps": "C",
     "keyShiftCaps": "c",
-    "keyRus": "с",
-    "keyShiftRus": "С",
-    "keyCapsRus": "С",
-    "keyShiftCapsRus": "с",
+    "keyRu": "с",
+    "keyShiftRu": "С",
+    "keyCapsRu": "С",
+    "keyShiftCapsRu": "с",
     "code": "KeyC"
   },
   {
@@ -510,10 +510,10 @@
     "keyShift": "V",
     "keyCaps": "V",
     "keyShiftCaps": "v",
-    "keyRus": "м",
-    "keyShiftRus": "М",
-    "keyCapsRus": "М",
-    "keyShiftCapsRus": "м",
+    "keyRu": "м",
+    "keyShiftRu": "М",
+    "keyCapsRu": "М",
+    "keyShiftCapsRu": "м",
     "code": "KeyV"
   },
   {
@@ -521,10 +521,10 @@
     "keyShift": "B",
     "keyCaps": "B",
     "keyShiftCaps": "b",
-    "keyRus": "и",
-    "keyShiftRus": "И",
-    "keyCapsRus": "И",
-    "keyShiftCapsRus": "и",
+    "keyRu": "и",
+    "keyShiftRu": "И",
+    "keyCapsRu": "И",
+    "keyShiftCapsRu": "и",
     "code": "KeyB"
   },
   {
@@ -532,10 +532,10 @@
     "keyShift": "N",
     "keyCaps": "N",
     "keyShiftCaps": "n",
-    "keyRus": "т",
-    "keyShiftRus": "Т",
-    "keyCapsRus": "Т",
-    "keyShiftCapsRus": "т",
+    "keyRu": "т",
+    "keyShiftRu": "Т",
+    "keyCapsRu": "Т",
+    "keyShiftCapsRu": "т",
     "code": "KeyN"
   },
   {
@@ -543,10 +543,10 @@
     "keyShift": "M",
     "keyCaps": "M",
     "keyShiftCaps": "m",
-    "keyRus": "ь",
-    "keyShiftRus": "Ь",
-    "keyCapsRus": "Ь",
-    "keyShiftCapsRus": "ь",
+    "keyRu": "ь",
+    "keyShiftRu": "Ь",
+    "keyCapsRu": "Ь",
+    "keyShiftCapsRu": "ь",
     "code": "KeyM"
   },
   {
@@ -554,10 +554,10 @@
     "keyShift": "<",
     "keyCaps": ",",
     "keyShiftCaps": "<",
-    "keyRus": "б",
-    "keyShiftRus": "Б",
-    "keyCapsRus": "Б",
-    "keyShiftCapsRus": "б",
+    "keyRu": "б",
+    "keyShiftRu": "Б",
+    "keyCapsRu": "Б",
+    "keyShiftCapsRu": "б",
     "code": "NumpadDecimal"
   },
   {
@@ -565,10 +565,10 @@
     "keyShift": ">",
     "keyCaps": ".",
     "keyShiftCaps": ">",
-    "keyRus": "ю",
-    "keyShiftRus": "Ю",
-    "keyCapsRus": "Ю",
-    "keyShiftCapsRus": "ю",
+    "keyRu": "ю",
+    "keyShiftRu": "Ю",
+    "keyCapsRu": "Ю",
+    "keyShiftCapsRu": "ю",
     "code": "Period"
   },
   {
@@ -576,10 +576,10 @@
     "keyShift": "?",
     "keyCaps": "/",
     "keyShiftCaps": "?",
-    "keyRus": ".",
-    "keyShiftRus": ",",
-    "keyCapsRus": ".",
-    "keyShiftCapsRus": ",",
+    "keyRu": ".",
+    "keyShiftRu": ",",
+    "keyCapsRu": ".",
+    "keyShiftCapsRu": ",",
     "code": "Slash"
   },
   {
@@ -587,10 +587,10 @@
     "keyShift": "▲",
     "keyCaps": "▲",
     "keyShiftCaps": "▲",
-    "keyRus": "▲",
-    "keyShiftRus": "▲",
-    "keyCapsRus": "▲",
-    "keyShiftCapsRus": "▲",
+    "keyRu": "▲",
+    "keyShiftRu": "▲",
+    "keyCapsRu": "▲",
+    "keyShiftCapsRu": "▲",
     "code": "ArrowUp"
   },
   {
@@ -598,10 +598,10 @@
     "keyShift": "Shift",
     "keyCaps": "Shift",
     "keyShiftCaps": "Shift",
-    "keyRus": "Shift",
-    "keyShiftRus": "Shift",
-    "keyCapsRus": "Shift",
-    "keyShiftCapsRus": "Shift",
+    "keyRu": "Shift",
+    "keyShiftRu": "Shift",
+    "keyCapsRu": "Shift",
+    "keyShiftCapsRu": "Shift",
     "code": "ShiftRight"
   },
   {
@@ -609,10 +609,10 @@
     "keyShift": "Ctrl",
     "keyCaps": "Ctrl",
     "keyShiftCaps": "Ctrl",
-    "keyRus": "Ctrl",
-    "keyShiftRus": "Ctrl",
-    "keyCapsRus": "Ctrl",
-    "keyShiftCapsRus": "Ctrl",
+    "keyRu": "Ctrl",
+    "keyShiftRu": "Ctrl",
+    "keyCapsRu": "Ctrl",
+    "keyShiftCapsRu": "Ctrl",
     "code": "ControlLeft"
   },
   {
@@ -620,10 +620,10 @@
     "keyShift": "Win",
     "keyCaps": "Win",
     "keyShiftCaps": "Win",
-    "keyRus": "Win",
-    "keyShiftRus": "Win",
-    "keyCapsRus": "Win",
-    "keyShiftCapsRus": "Win",
+    "keyRu": "Win",
+    "keyShiftRu": "Win",
+    "keyCapsRu": "Win",
+    "keyShiftCapsRu": "Win",
     "code": "MetaLeft"
   },
   {
@@ -631,10 +631,10 @@
     "keyShift": "Alt",
     "keyCaps": "Alt",
     "keyShiftCaps": "Alt",
-    "keyRus": "Alt",
-    "keyShiftRus": "Alt",
-    "keyCapsRus": "Alt",
-    "keyShiftCapsRus": "Alt",
+    "keyRu": "Alt",
+    "keyShiftRu": "Alt",
+    "keyCapsRu": "Alt",
+    "keyShiftCapsRu": "Alt",
     "code": "AltLeft"
   },
   {
@@ -642,10 +642,10 @@
     "keyShift": " ",
     "keyCaps": " ",
     "keyShiftCaps": " ",
-    "keyRus": " ",
-    "keyShiftRus": " ",
-    "keyCapsRus": " ",
-    "keyShiftCapsRus": " ",
+    "keyRu": " ",
+    "keyShiftRu": " ",
+    "keyCapsRu": " ",
+    "keyShiftCapsRu": " ",
     "code": "Space"
   },
   {
@@ -653,10 +653,10 @@
     "keyShift": "Alt",
     "keyCaps": "Alt",
     "keyShiftCaps": "Alt",
-    "keyRus": "Alt",
-    "keyShiftRus": "Alt",
-    "keyCapsRus": "Alt",
-    "keyShiftCapsRus": "Alt",
+    "keyRu": "Alt",
+    "keyShiftRu": "Alt",
+    "keyCapsRu": "Alt",
+    "keyShiftCapsRu": "Alt",
     "code": "AltRight"
   },
   {
@@ -664,10 +664,10 @@
     "keyShift": "◄",
     "keyCaps": "◄",
     "keyShiftCaps": "◄",
-    "keyRus": "◄",
-    "keyShiftRus": "◄",
-    "keyCapsRus": "◄",
-    "keyShiftCapsRus": "◄",
+    "keyRu": "◄",
+    "keyShiftRu": "◄",
+    "keyCapsRu": "◄",
+    "keyShiftCapsRu": "◄",
     "code": "ArrowLeft"
   },
   {
@@ -675,10 +675,10 @@
     "keyShift": "▼",
     "keyCaps": "▼",
     "keyShiftCaps": "▼",
-    "keyRus": "▼",
-    "keyShiftRus": "▼",
-    "keyCapsRus": "▼",
-    "keyShiftCapsRus": "▼",
+    "keyRu": "▼",
+    "keyShiftRu": "▼",
+    "keyCapsRu": "▼",
+    "keyShiftCapsRu": "▼",
     "code": "ArrowDown"
   },
   {
@@ -686,10 +686,10 @@
     "keyShift": "►",
     "keyCaps": "►",
     "keyShiftCaps": "►",
-    "keyRus": "►",
-    "keyShiftRus": "►",
-    "keyCapsRus": "►",
-    "keyShiftCapsRus": "►",
+    "keyRu": "►",
+    "keyShiftRu": "►",
+    "keyCapsRu": "►",
+    "keyShiftCapsRu": "►",
     "code": "ArrowRight"
   },
   {
@@ -697,10 +697,10 @@
     "keyShift": "Ctrl",
     "keyCaps": "Ctrl",
     "keyShiftCaps": "Ctrl",
-    "keyRus": "Ctrl",
-    "keyShiftRus": "Ctrl",
-    "keyCapsRus": "Ctrl",
-    "keyShiftCapsRus": "Ctrl",
+    "keyRu": "Ctrl",
+    "keyShiftRu": "Ctrl",
+    "keyCapsRu": "Ctrl",
+    "keyShiftCapsRu": "Ctrl",
     "code": "ControlRight"
   }
 ]
