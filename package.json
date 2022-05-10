@@ -6,7 +6,7 @@
   "scripts": {
     "start": "webpack serve --mode development --open",
     "build": "webpack --mode production",
-    "test": "eslint source/"
+    "test": "eslint source/index.js"
   },
   "repository": {
     "type": "git",
