@@ -83,6 +83,11 @@ textarea.addEventListener("blur", () => {
   selEnd = textarea.selectionEnd;
 });
 
+textarea.addEventListener("click", () => {
+  selStart = textarea.selectionStart;
+  selEnd = textarea.selectionEnd;
+});
+
 function addText(text) {
   textareaContent = textareaContent.substring(0, selStart) + text + textareaContent.substring(selEnd, textareaContent.length);
   selEnd = ++selStart;
